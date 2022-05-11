@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "6269800899",
+    "project_id": "evcards-1d902",
+    "storage_bucket": "evcards-1d902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6269800899:android:318e932bb401058173ed76",
+        "android_client_info": {
+          "package_name": "com.example.evcards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6269800899-80mhpe9190h6gnvrmr3p90837bglqjkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evcards",
+            "certificate_hash": "a9d9b86b544c85574fa658167393bd045894d3f3"
+          }
+        },
+        {
+          "client_id": "6269800899-vehuk8g66eqpf805nn91aag1abhg8fjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEHlV12jgL3Jq0XXwAsGwxqyOdCoNCI7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6269800899-vehuk8g66eqpf805nn91aag1abhg8fjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
